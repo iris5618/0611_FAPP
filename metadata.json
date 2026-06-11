@@ -1,0 +1,6 @@
+{
+  "name": "台中港航安與客務系統",
+  "description": "台中港航行安全、動態風險評估及客服自動化通報系統，支援多船型耐浪等級與航行劇烈不舒適改簽/退款輔助。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
